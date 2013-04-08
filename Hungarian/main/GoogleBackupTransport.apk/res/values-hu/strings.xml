@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="header_set_backup_account">Biztonsági mentés helyének megadása</string>
-    <string name="notification_ticker_set_backup_account">Meg kell adni a biztonsági mentés helyét</string>
-    <string name="notification_content_title_set_backup_account">Tartalék</string>
-    <string name="notification_content_text_set_backup_account">Be kell állítania a biztonsági mentés helyét</string>
-    <string name="list_item_add_account">Fiók hozzáadása</string>
-</resources>

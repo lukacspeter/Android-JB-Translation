@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <plurals name="error_missing_apps_plurals">
-        <item quantity="other">" Ezt a fiókot nem lehet használni, mert nem tartalmazza a következő alkalmazásokat: ^1. Vegye fel a kapcsolatot a(z) "&lt;b>^2&lt;/b> domain rendszergazdájával, vagy jelentkezzen be másik fiókkal.</item>
-        <item quantity="one">" Ezt a fiókot nem lehet használni, mert nem tartalmazza a következő alkalmazásokat: ^1. Vegye fel a kapcsolatot a(z) "&lt;b>^2&lt;/b> domain rendszergazdájával, vagy jelentkezzen be másik fiókkal.</item>
-    </plurals>
-</resources>

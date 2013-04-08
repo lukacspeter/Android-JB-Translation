@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Időjárásjelentés</string>
+    <string name="choose_city">Város választása</string>
+    <string name="searching">Keresés folyamatban. Kérjük, várjon.</string>
+    <string name="no_found">Nem található ezzel egyező város: %s. Ellenőrizze a megadott szavakat.</string>
+    <string name="net_error">A hálózat nem elérhető. Kérjük, ellenőrizze.</string>
+    <string name="no_city_error">Nem lehet városinfót letölteni. Állítsa be helyesen a rendszeridőt és az időzónát.</string>
+    <string name="searching_fail">Sikertelen városkeresés.</string>
+    <string name="no_weather_error">Nem lehet időjárásinfót letölteni. Állítsa be helyesen a rendszeridőt és az időzónát.</string>
+    <string name="no_weather">Jelenleg nincs időjárásinfó ehhez: %s.</string>
+    <string name="setting_title">Beállítás</string>
+    <string name="temperature">Hőmérséklet egység</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Városok</string>
+    <string name="update_fre">Frissítés gyakorisága</string>
+    <string name="every12">12 óránként</string>
+    <string name="cancel">Mégse</string>
+    <string name="menu_add_city">Város hozzáadása</string>
+    <string name="add_city">Nyomja meg az ikont új város hozzáadásához</string>
+    <string name="remove">Eltávolítás</string>
+    <string name="warn">Legfeljebb 8 város adható hozzá.</string>
+    <string name="has_chosen">kiválasztva.</string>
+    <string name="no_city">Nincs város</string>
+    <string name="powered_by">Powered by:</string>
+    <string name="menu_about">Névjegy</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d dal</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%1$d/%2$d dal</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d dal törlésre került.</item>
+        <item quantity="one">1 dal törölve.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d dal felkerült a lejátszási listára.</item>
+        <item quantity="one">1 dal hozzáadva a lejátszási listához.</item>
+    </plurals>
+</resources>

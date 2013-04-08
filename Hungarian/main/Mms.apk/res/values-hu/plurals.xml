@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d olvasási jelentés küldése</item>
+        <item quantity="one">%d olvasási jelentés küldése</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d kijelölve</item>
+        <item quantity="one">%d kijelölve</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">Megtörtént %1$s beszélgetés törlése</item>
+        <item quantity="one">Megtörtént egy beszélgetés törlése</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s találat a következőre: \"%2$s\"</item>
+        <item quantity="one">%1$s találat a következőre: \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">%s másodperc</item>
+        <item quantity="few">%s másodperc</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s beszélgetés lesz törölve</item>
+        <item quantity="one">Egy beszélgetés törölve lesz</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d nem olvasott üzenet.</item>
+        <item quantity="one">%d nem olvasott üzenet.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">további %1$s üzenet</item>
+        <item quantity="one">további %1$s üzenet</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s személy</item>
+    </plurals>
+</resources>

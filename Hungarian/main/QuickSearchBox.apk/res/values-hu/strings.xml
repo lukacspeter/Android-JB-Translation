@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keresés</string>
+    <string name="search_widget">Keresés</string>
+    <string name="remove_from_history">Keresési előzmények eltávolítása</string>
+    <string name="remove_from_history_failed">Az elem nem távolítható el az előzmények közül</string>
+    <string name="corpus_selection_heading">Keresés</string>
+    <string name="corpus_label_global">Összes</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Webes keresés, könyvjelzők és böngészési előzmények</string>
+    <string name="corpus_label_apps">Alkalmazás</string>
+    <string name="corpus_description_apps">Telepített alkalmazások neve</string>
+    <string name="corpus_hint_apps">Alkalmazások keresése</string>
+    <string name="menu_settings">Keresési beállítások</string>
+    <string name="search_settings">Keresési beállítások</string>
+    <string name="google_settings_category_title">Google Keresés</string>
+    <string name="device_settings_category_title">Parancsikonok törlése</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Kereshető elemek</string>
+    <string name="search_sources_summary">Válassza ki, mire szeretne keresni a telefonján</string>
+    <string name="clear_shortcuts">Parancsikonok törlése</string>
+    <string name="clear_shortcuts_summary">Törli a közelmúltban kiválasztott keresési javaslatokra mutató gyorslinkeket</string>
+    <string name="clear_shortcuts_prompt">"Ezzel törli a nemrég választott keresési javaslatokhoz vezető parancsikonokat.
+
+(A böngésző összes előzményeinek törléséhez használja a böngésző beállításokat.)"</string>
+    <string name="clear_shortcuts_agree">Parancsikonok törlése</string>
+    <string name="clear_shortcuts_disagree">Nincs parancsikon törlés</string>
+    <string name="menu_help">Súgó</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Google Keresés</string>
+    <string name="google_search_hint">Google Keresés</string>
+    <string name="google_search_description">Google Keresési javaslatok</string>
+    <string name="voice_search_hint_title">Mondja ki ezt:</string>
+    <string name="voice_search_hint_quotation_start" />
+    <string name="voice_search_hint_quotation_end" />
+    <string name="pref_content_search_engine">Keresőmotor választása</string>
+    <string name="pref_content_search_engine_consistency">Keresőmotor konzisztencia</string>
+    <string name="search_suggestion_settings">Webes keresés javaslatok</string>
+    <string name="search_engine_settings">Keresőmotor</string>
+    <string name="pref_search_engine_unify">Keresőmotor egységesítése</string>
+    <string name="pref_search_engine_unify_summary">A keresőmotor módosítás alkalmazása a böngészőre</string>
+</resources>

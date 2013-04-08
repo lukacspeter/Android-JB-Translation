@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="alarm_set">
+        <item>A készülék bekapcsolása kevesebb mint 1 perc múlva történik meg.</item>
+        <item>A bekapcsolás %1$s múlva történik meg.</item>
+        <item>A bekapcsolás %2$s múlva történik meg.</item>
+        <item>A bekapcsolás %1$s és %2$s múlva történik meg.</item>
+        <item>A bekapcsolás %3$s múlva történik meg.</item>
+        <item>A bekapcsolás %1$s és %3$s múlva történik meg.</item>
+        <item>A bekapcsolás %2$s és %3$s múlva történik meg.</item>
+        <item>A bekapcsolás %1$s, %2$s és %3$s múlva történik meg.</item>
+        <item>A készülék kikapcsolása kevesebb mint 1 perc múlva történik meg.</item>
+        <item>A kikapcsolás %1$s múlva történik meg.</item>
+        <item>A kikapcsolás %2$s múlva történik meg.</item>
+        <item>A kikapcsolás %1$s és %2$s múlva történik meg.</item>
+        <item>A kikapcsolás %3$s múlva történik meg.</item>
+        <item>A kikapcsolás %1$s és %3$s múlva történik meg.</item>
+        <item>A kikapcsolás %2$s és %3$s múlva történik meg.</item>
+        <item>A kikapcsolás %1$s, %2$s és %3$s múlva történik meg.</item>
+    </string-array>
+</resources>

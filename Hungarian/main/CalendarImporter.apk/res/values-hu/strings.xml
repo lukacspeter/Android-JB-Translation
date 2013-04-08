@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="import_to">Importálás ide:</string>
+    <string name="import_button">Importálás</string>
+    <string name="cancel">Mégse”</string>
+    <string name="no_access_toast">A fiók nem található. Adjon hozzá előbb egy fiókot</string>
+    <string name="null_name">Nincs”</string>
+    <string name="import_message">Szeretné a számot importálni a Naptárba?</string>
+    <string name="calendar_lable">"Naptár: "</string>
+    <string name="date_lable">"Dátum: "</string>
+    <string name="import_title">Naptáresemény importálása</string>
+    <string name="importing">Importálás...</string>
+    <string name="import_complete">Importálás kész</string>
+    <string name="open">Megnyitás”</string>
+    <string name="done">Kész”</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">A vCalendar importálása nem sikerült.</string>
+    <string name="title_lable">"Cím: "</string>
+    <string name="no_syncable_calendars">Az importálás sikertelen</string>
+    <string name="no_calendars_found">Ez a fiók nem támogatja a naptárszinkronizálást, vagy az utolsó szinkronizálás még nem fejeződött be.</string>
+    <string name="retry">Újra</string>
+    <string name="give_up">Megszakítás</string>
+    <string name="open_calendar_failed">A naptár nem elérhető.</string>
+    <string name="loading">Betöltés…</string>
+</resources>

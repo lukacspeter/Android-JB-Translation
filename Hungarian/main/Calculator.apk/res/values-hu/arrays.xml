@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="operatorDescs">
+        <item>nyitó zárójel</item>
+        <item>berekesztő zárójel</item>
+        <item>faktoriális</item>
+        <item>természetes logaritmus</item>
+        <item>logaritmus</item>
+        <item>négyzetgyök</item>
+        <item>osztva</item>
+        <item>szorozva</item>
+        <item>plusz</item>
+        <item>mínusz</item>
+        <item> pont </item>
+        <item>hatvány</item>
+        <item>tangens</item>
+        <item>szinusz</item>
+        <item>koszinusz</item>
+        <item>pi</item>
+        <item>egyenlő</item>
+    </string-array>
+</resources>

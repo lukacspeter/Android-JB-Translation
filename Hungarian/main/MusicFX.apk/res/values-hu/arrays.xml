@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="reverb_preset_list">
+        <item>Semelyik</item>
+        <item>Kis helyiség</item>
+        <item>Közepes helyiség</item>
+        <item>Nagy helyiség</item>
+        <item>Közepes terem</item>
+        <item>Nagyméretű terem</item>
+        <item>Fémlemezes visszhangosító</item>
+    </string-array>
+</resources>

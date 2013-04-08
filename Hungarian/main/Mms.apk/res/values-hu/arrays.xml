@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="default_smiley_names">
+        <item>Mosoly</item>
+        <item>Szomorú</item>
+        <item>Kacsintás</item>
+        <item>Nyelvnyújtás</item>
+        <item>Meglepődött</item>
+        <item>Csók</item>
+        <item>Kiabálás</item>
+        <item>Laza</item>
+        <item>Pénz beszél</item>
+        <item>Ha hallgattam volna...</item>
+        <item>Zavarban</item>
+        <item>Angyal</item>
+        <item>Határozatlan</item>
+        <item>Sírás</item>
+        <item>Szót se szólok</item>
+        <item>Nevetés</item>
+        <item>Összezavarodva</item>
+        <item>Szív</item>
+        <item>Mérges</item>
+        <item>Kacsintás</item>
+        <item>Pókerarc</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>nincs tárgy</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Hol vagy?</item>
+        <item>Mit csinálsz?</item>
+        <item>Légy szíves hívj vissza!</item>
+        <item>Sajnos éppen értekezleten vagyok.</item>
+        <item>Hamarosan visszahívlak.</item>
+        <item>Ne aggódj! Rendben vagyok.</item>
+        <item>Elindultam hazafelé.</item>
+        <item>Hamarosan megérkezem.</item>
+        <item>Ott legyél, különben megharagszom!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Korlátozott mód</item>
+        <item>Figyelmeztetés mód</item>
+        <item>Szabad mód</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_choices">
+        <item>100K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Magas</item>
+        <item>Normál</item>
+        <item>Alacsony</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM ábécé</item>
+        <item>Unicode</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM-kártya</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Eszköz</item>
+        <item>SIM-kártya</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Rendszer-betűméret szerint</item>
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+        <item>Extra nagy</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak néma üzemmódban</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

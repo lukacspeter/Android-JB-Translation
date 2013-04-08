@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="temperature_type">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Nincs automata frissítés</item>
+        <item>1 óránként</item>
+        <item>2 óránként</item>
+        <item>6 óránként</item>
+        <item>12 óránként</item>
+        <item>Naponként</item>
+    </string-array>
+</resources>

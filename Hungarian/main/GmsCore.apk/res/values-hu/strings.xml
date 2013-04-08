@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="plus_app_label">Google+</string>
+    <string name="add_moment_title">Pillanat mentése a Google+ előzményeibe</string>
+    <string name="plus_service_title">Google+ szolgáltatás</string>
+    <string name="moment_added_message">Elmentve a Google+ előzményeibe</string>
+    <string name="plus_one_self_removed">A +1-edet eltávolítottuk.</string>
+    <string name="plus_one_self">+1 tőle: %1$s</string>
+    <string name="plus_one_public">Nyilvános</string>
+    <string name="plus_one_count_many">10e+</string>
+    <string name="plus_one_annotation_none">Ajánlás a Google-on</string>
+    <string name="plus_one_annotation_none_short">Ajánlás</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s +1-ezte ezt</string>
+    <string name="plus_one_social_annotation_user">Te</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_prefix">köztük %1$s</string>
+    <string name="install_google_plus_title">A Google+ beszerzése</string>
+    <string name="install_google_plus_text">Letöltöd a Google+ alkalmazást a Google Play webhelyről, hogy megoszthasd ezt?</string>
+    <string name="install_google_plus_button">A Google+ beszerzése</string>
+    <string name="enable_google_plus_title">A Google+ engedélyezése</string>
+    <string name="enable_google_plus_text">Engedélyezed a Google+ alkalmazást a Google Play webhelyről, hogy megoszthasd ezt?</string>
+    <string name="enable_google_plus_button">A Google+ engedélyezése</string>
+    <string name="update_google_plus_title">A Google+ frissítése</string>
+    <string name="update_google_plus_text">Frissíted a Google+ alkalmazást a Google Play webhelyről, hogy megoszthasd ezt?</string>
+    <string name="update_google_plus_button">Frissítés</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_one_title">Nyilvánosan +1-ezted ezt mint</string>
+    <string name="plus_one_app">Forrás: &lt;b>%s&lt;b></string>
+    <string name="plus_one_undo">Visszavonás</string>
+    <string name="plus_one_share">Megosztás</string>
+    <string name="plus_one_error">Átmeneti hiba történt a +1-ezés során. Próbálkozz újra.</string>
+    <string name="checking_gplus_signup_state">Csatlakozás…</string>
+    <string name="plus_one_description_standard">Érintéssel +1-ezhetsz.</string>
+    <string name="plus_one_description">Érintéssel +1-ezheted a meglévő %1$s elemet</string>
+    <string name="plus_one_description_remove">Érintéssel eltávolíthatod +1-ezésedet a meglévő %1$s elemről</string>
+    <string name="plus_invalid_account">Érvénytelen fiók</string>
+    <string name="internal_error">Belső hiba történt.</string>
+    <string name="app_name">Google Play Szolgáltatások</string>
+    <string name="install_play_services_title">Google Play Szolgáltatások telepítése</string>
+    <string name="install_play_services_text_phone">Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
+    <string name="install_play_services_text_table">Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
+    <string name="install_play_services_button">Play Szolgáltatások telepítése</string>
+    <string name="enable_play_services_title">Google Play Szolgáltatások engedélyezése</string>
+    <string name="enable_play_services_text">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play Szolgáltatásokat.</string>
+    <string name="enable_play_services_button">Play Szolgáltatások enged.</string>
+    <string name="update_play_services_title">Google Play Szolgáltatások frissítése</string>
+    <string name="update_play_services_text">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play Szolgáltatásokat.</string>
+    <string name="update_play_services_button">Frissítés</string>
+    <string name="choose_account_label">Válasszon fiókot</string>
+    <string name="add_account_label">Fiók hozzáadása</string>
+    <string name="add_account_button_label">Fiók hozzáadása</string>
+    <string name="app_label">Fiókkezelő</string>
+    <string name="gls_label">Google</string>
+    <string name="default_device_name">Android</string>
+    <string name="next_button_label">Tovább</string>
+    <string name="back_button_label">Vissza</string>
+    <string name="sign_in_button_label">Bejelentkezés</string>
+    <string name="skip_button_label">Átugrás</string>
+    <string name="cancel_button_label">Mégse</string>
+    <string name="try_again_button_label">Próbálkozzon újra</string>
+    <string name="captcha_title">Meg kell adni a CAPTCHA-képet</string>
+    <string name="show_error_title">Hiba</string>
+    <string name="server_error">Probléma merült fel a Google szervereivel való kommunikáció során.</string>
+    <string name="server_error_help">Próbálkozzon később.</string>
+    <string name="network_unreliable">Nem lehet megbízható kapcsolatot létrehozni a szerverrel.</string>
+    <string name="network_unreliable_help">Ez lehet ideiglenes probléma, de lehet, hogy Android eszközén nem érhető el adatszolgáltatás. Ha a probléma továbbra is fennáll, hívja az ügyfélszolgálatot.</string>
+    <string name="network_unreliable_help_wifi_only">Lehet, hogy a probléma csak ideiglenes. Próbálkozzon újra, vagy csatlakozzon egy másik Wi-Fi hálózathoz.</string>
+    <string name="invalid_login_character">Érvénytelen karakter. Csak a következők engedélyezettek: 0-9, a-z, A-Z és pont (.).</string>
+    <string name="invalid_password_character">Érvénytelen karakter a jelszóban.</string>
+    <string name="field_cant_be_blank">A mező nem lehet üres.</string>
+    <string name="plus_name_check_text">Ez eltarthat néhány percig.</string>
+    <string name="communicating_message">Telefonja kapcsolatba lép a Google-lal azért, hogy információkat mentsen a fiókjába. Ez akár 5 percig is eltarthat.</string>
+    <string name="plus_failure_title">Csatlakozzon a Google+ szolgáltatáshoz később</string>
+    <string name="plus_failure_new_account_text">Google Fiókját létrehoztuk, azonban a Google+ szolgáltatáshoz való csatlakozási kérelmét nem sikerült elküldeni. Próbálkozzon újra később bármely böngészővel a plus.google.com webhelyen.</string>
+    <string name="plus_failure_text">A Google+ szolgáltatáshoz való csatlakozásának kérelmét nem sikerült elküldeni. Próbálkozzon újra később bármely böngészővel a plus.google.com webhelyen.</string>
+    <string name="invalid_scope">Érvénytelen hatókör a hitelesítési kérelem során</string>
+    <string name="login_title">E-mail cím és jelszó beírása</string>
+    <string name="login_task_title">Bejelentkezés</string>
+    <string name="password">Jelszó</string>
+    <string name="sign_in_agreement">A bejelentkezéssel elfogadja a <annotation id="google_privacy">Google</annotation> adatvédelmi irányelveit és a <annotation id="android_privacy">kiegészítő</annotation> adatvédelmi irányelveket.</string>
+    <string name="sign_in_with_google_account_short">Jelentkezzen be Google Fiókjával:</string>
+    <string name="invalid_username">A megadott szöveg nem érvényes felhasználónév.</string>
+    <string name="captcha_instructions">Írja be az itt látható szöveget:</string>
+    <string name="account_already_has_gmail">Ennél a fióknál már be van állítva a Gmail</string>
+    <string name="error_account_disabled">"Ez a fiók le van tiltva. 
+
+(A részletekért keresse fel egy böngészőben a http://google.com/accounts webhelyet.)"</string>
+    <string name="no_network">Nincs hálózati kapcsolat.</string>
+    <string name="no_network_help">Ez lehet ideiglenes probléma, de lehet, hogy Android-eszközén nem érhető el adatszolgáltatás. Próbálkozzon újra a mobil- vagy Wi-Fi hálózathoz való csatlakozást követően.</string>
+    <string name="no_network_help_wifi_only">Lehet, hogy a probléma csak ideiglenes. Próbálkozzon újra, vagy csatlakozzon egy másik Wi-Fi hálózathoz.</string>
+    <string name="error_login_failed">"A felhasználónév és jelszó nem egyezik. Próbálja újra.
+
+Fiókjának  helyreállításához látogasson el a google.com/accounts/recovery/ címre."</string>
+    <string name="error_account_not_verified">"Ez a fiók még nincs ellenőrizve. Nyissa meg az e-mailt, majd kattintson a linkre a fiók ellenőrzéséhez. 
+
+(A fiókadatok visszaállításához keresse fel a http://www.google.com/accounts/recovery webhelyet a számítógépén.)"</string>
+    <string name="exit_menu_item">Kilépés a böngészős bejelentkezésből</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> nem használ Gmailt.</string>
+    <string name="error_not_logged_in">A felhasználó nincs bejelentkezve.</string>
+    <string name="error_username_unavailable">A felhasználónév nem érhető el.</string>
+    <string name="error_bad_password">A jelszó túl gyenge, vagy érvénytelen karaktereket tartalmaz. Próbálja újra.</string>
+    <string name="error_bad_username">Érvénytelen felhasználónév.</string>
+    <string name="existing_account_error_title">A fiók már létezik</string>
+    <string name="existing_account_error_text">Már létezik egy ^1 fiók ezen az Android készüléken.</string>
+    <string name="submission_title">Sajnáljuk…</string>
+    <string name="submission_error_text">Hiba történt, próbálja újra.</string>
+    <string name="gls_notification_login_error">Érintse meg a fiókjába való bejelentkezéshez.</string>
+    <string name="gls_ui_add_account_title">Fiók beállítása</string>
+    <string name="gls_ui_activity_title">Google-bejelentkezés</string>
+    <string name="gls_ui_activity_title_browser_signin">Böngészővel történő bejelentkezés</string>
+    <string name="gls_ui_activity_authenticating">Hitelesítés...</string>
+    <string name="gls_dmagent_activity_message">" Domainjén a mobil eszközök kezelésének lehetőségére van szükség. Telepítse a Google Apps Device Policy alkalmazást a(z)  "<b>^1</b> fiók használatához szükséges biztonsági irányelvek betartatására.</string>
+    <string name="gls_dmagent_activity_retry_button">Letöltés</string>
+    <string name="sign_in_browser">Böngészővel történő bejelentkezés</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Hibás jelszót adott meg, vagy a fiókja megváltozott. Írja be újra a jelszót.</string>
+    <string name="allow_access_header">Megadja a hozzáférést?</string>
+    <string name="allow_access_to_google_account">Ahhoz, hogy helyesen működjön, a(z) %s alkalmazásnak folyamatos hozzáféréssel kell rendelkeznie az Ön alábbi Google Fiókban lévő adataihoz. Csak akkor engedélyezze a hozzáférést, ha rá meri bízni ezeket az információkat az alkalmazásra.</string>
+    <string name="allow_access_to_external_site">Ahhoz, hogy helyesen működjön, a(z) %s alkalmazásnak folyamatos hozzáféréssel kell rendelkeznie az Ön alábbi webhelyen lévő adataihoz. Csak akkor engedélyezze a hozzáférést, ha rá meri bízni ezeket az információkat az alkalmazásra.</string>
+    <string name="bullet_image">•</string>
+    <string name="sign_in_as">Bejelentkezés mint</string>
+    <string name="allow_access">Engedélyezés</string>
+    <string name="account_setup_title">Google Fiók</string>
+    <string name="login_activity_title">Jelentkezzen be</string>
+    <string name="relogin_activity_title">Írja be újra a jelszót</string>
+    <string name="show_error_activity_title">Sikertelen bejelentkezés</string>
+    <string name="login_activity_task_title">Bejelentkezés...</string>
+    <string name="username">E-mail</string>
+    <string name="error_invalid_second_factor">Használjon alkalmazásfüggő jelszót fiókja normál jelszava helyett.</string>
+    <string name="error_needs_browser">A fiók eléréséhez be kell jelentkeznie az interneten. Érintse meg a Tovább gombot a böngészővel történő bejelentkezés megkezdéséhez.</string>
+    <string name="password_title">Jelszó létrehozása</string>
+    <string name="choose_a_password">Jelszó</string>
+    <string name="confirm_password">Írja be újra a jelszót</string>
+    <string name="eight_chars_min">(minimum 8 karakter)</string>
+    <string name="too_short">Túl rövid</string>
+    <string name="creating_profile">Profil létrehozása…</string>
+    <string name="plus_query_title">Csatlakozás a Google+ szolgáltatáshoz</string>
+    <string name="plus_query_text">A Google+ segítségével az interneten való megosztás jobban hasonlít a valós életben történő megosztásra.</string>
+    <string name="circles_subtitle">Körök</string>
+    <string name="circles_text">A legegyszerűbb módja, hogy megossza az interneten a legfontosabb dolgokat.</string>
+    <string name="uploads_subtitle">Azonnali feltöltés</string>
+    <string name="uploads_text">Könnyedén szinkronizálhatja fotóit az összes eszközéről.</string>
+    <string name="huddle_text">Csoportos üzenetküldés a köreiben szereplő összes ismerősnek.</string>
+    <string name="plus_declined_button_label">Most nem</string>
+    <string name="plus_accepted_button_label">Csatlakozás: Google+</string>
+    <string name="plus_name_check_title">Kapcsolódás a Google+ szolgáltatáshoz...</string>
+    <string name="first_name">Első</string>
+    <string name="last_name">Utolsó</string>
+    <string name="name_title">Az Ön neve</string>
+    <string name="name_title_plus">Az Ön neve a Google+ szolgáltatásban</string>
+    <string name="name_title_local">A telefon tulajdonosa:</string>
+    <string name="name_text">Az Ön nevét használjuk a telefon és a Google-szolgáltatások személyre szabásához.</string>
+    <string name="name_text_local">A telefon az Ön nevét használja néhány alkalmazás személyre szabásához.</string>
+    <string name="cant_be_blank">A mező nem lehet üres.</string>
+    <string name="bad_name_title">Ezt a nevet kívánja használni?</string>
+    <string name="invalid_name_title">Nem használhatja ezt a nevet</string>
+    <string name="bad_name_display">%2$s %1$s</string>
+    <string name="bad_name_text">"Ha ezt a nevet szeretné használni a Google+ szolgáltatásban, akkor csapatunknak felülvizsgálatot kell végeznie rajta. Ha a név sérti a nevekre vonatkozó irányelveinket, akkor profilját felfüggeszthetjük. Ez korlátozni fogja az aktív profilt igénylő Google-termékek használatában.
+
+"<annotation id="learn_more">További információ</annotation></string>
+    <string name="invalid_name_text">Ezt a nevet nem használhatja a Google+ szolgáltatásban, mert érvénytelen karaktereket tartalmaz.</string>
+    <string name="invalid_nickname_text">Ezt a nevet nem használhatja a Google+ szolgáltatásban, mert érvénytelen karaktereket tartalmaz. Becenevet, korábbi nevet vagy titulust próbál megadni? Hozzáadhatja majd azokat is a csatlakozás után.</string>
+    <string name="invalid_other_text">Ezt a nevet nem lehet használni a Google+ szolgáltatásban.</string>
+    <string name="bad_name_agree_text">Megértettem, és ezt a nevet szeretném használni.</string>
+    <string name="bad_name_decline_button_label">Név frissítése</string>
+    <string name="bad_name_agree_button_label">Név küldése felülvizsgálatra</string>
+    <string name="bad_name_skip_button_label">Google+ kihagyása</string>
+    <string name="plus_faq_title">Üdvözli a Google+!</string>
+    <string name="plus_faq_text" formatted="false">"A Google+ szolgáltatásban kap egy nyilvános profilt, hogy ismerősei megtalálhassák az interneten. Bárki megtalálhatja és megtekintheti azt, aki ismeri e-mail címét.
+
+Használhatja a +1 gombot az interneten, hogy megosszon dolgokat a világgal. Profilja és a +1-ek nyilvánosan megjelennek a kereséseknél, hirdetéseknél és a weben.
+
+Egyelőre profilja csak a nevét fogja megjeleníteni(%s%s). Később -- ha majd elkezdi használni a Google+ szolgáltatást -- fényképet, személyes adatokat és egyéb információkat is megadhat."</string>
+    <string name="dasher_warning">A(z) %s rendszergazdája birtokolja és kezeli az összes adatát a Google+ szolgáltatásban, és az Ön engedélye nélkül bármikor törölheti vagy módosíthatja profilját.</string>
+    <string name="picassa_info_title">Picasa és Google+</string>
+    <string name="picassa_info_text" formatted="false">A Picasa Webalbumokban található fényképek és videók elérhetők lesznek a Google+ szolgáltatásban, és megjegyzései %s %s néven fognak megjelenni %s helyett. Ha fényképeket oszt meg a Google+ szolgáltatásban, akkor a címezettek megoszthatják azokat bárki mással. Az album láthatósági beállításai nem fognak módosulni, és bármikor megváltoztathatja azokat, hogy képeit ne lehessen szabadon újra megosztani.</string>
+    <string name="i_accept">Elfogadom</string>
+    <string name="allow_personalized_content">Engedélyezi a Google számára, hogy az Önnel kapcsolatos információk alapján személyre szabja a tartalmat és a hirdetéseket a nem Google-webhelyeken.</string>
+    <string name="enable_web_history">Internetes előzmények bekapcsolása</string>
+    <string name="learn_more"><annotation id="learn_more">További információ</annotation></string>
+    <string name="account_creation_tos">Az alábbi <b>Elfogadom</b> gomb megérintésével elfogadja a <annotation id="tos">Google</annotation> és a <annotation id="play_tos">Google Play</annotation> általános szerződési feltételeit, valamint a <annotation id="google_privacy">Google adatvédelmi irányelveit</annotation>.</string>
+    <string name="gender_prompt">Nem</string>
+    <string name="gender_hint">Adja meg a nemét</string>
+    <string name="account_tos_title">Fiókbeállítás befejezése</string>
+    <string name="account_tos_plus_title">Google+: Kapcsolódás befejezése</string>
+    <string name="google_play_opt_in">Naprakész szeretnék lenni a Google Play híreivel és ajánlataival kapcsolatban.</string>
+    <string name="done">OK</string>
+    <string name="learn_more_title">További információ</string>
+    <string name="learn_more_web_history">"Az internetes előzmények szolgáltatás a korábbi keresések és meglátogatott webhelyek alapján finomítja a keresési eredményeket, így személyre szabott keresési élményben lehet része.
+
+Az internetes előzmények megtekintéséhez és kezeléséhez, beleértve azok be- és kikapcsolását, látogasson el a http//www.google.com/history oldalra."</string>
+    <string name="learn_more_web_history_title">Az internetes előzményekről</string>
+    <string name="learn_more_bad_name">A Google+ szolgáltatásban saját nevét kell használnia. Profiljának egy személyt kell képviselnie -- nem vállalatot vagy családot --, és magában kell foglalnia családi és utónevét ugyanazon a nyelven, mindenféle titulus és szükségtelen rövidítés nélkül. Regisztráció után megadhat beceneveket és más neveket profilja \"Egyéb nevek\" mezőjében.</string>
+    <string name="learn_more_bad_name_title">A nevekkel kapcsolatos irányelvről</string>
+    <string name="setup_wizard_title">Beállításvarázsló</string>
+    <string name="close_button_label">Bezárás</string>
+    <string name="android_privacy_policy_title">További adatvédelmi irányelvek</string>
+    <string name="google_terms_of_service_title">Google Általános Szerződési Feltételek</string>
+    <string name="google_privacy_policy_title">A Google adatvédelmi irányelvei</string>
+    <string name="google_plus_privacy_policy_title">Google Plusz -- Adatvédelmi irányelvek</string>
+    <string name="google_play_tos_title">A Google Play Ált. Szerződési Feltételei</string>
+    <string name="oob_location_sharing_title">Helyzetmegosztás</string>
+    <string name="oob_location_tos_title">Hely -- Általános Szerződési Feltételek</string>
+    <string name="oob_mobile_tos_title">Mobil -- Általános Szerződési Feltételek</string>
+    <string name="oob_privacy_policy_title">Adatvédelmi irányelvek</string>
+    <string name="url_load_unsuccessful_message">Android-eszköze nem csatlakozik adatszolgáltatáshoz. Az információ megtekintéséhez látogasson el egy böngészővel a következő címre: %s.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android-eszköze nem csatlakozik Wi-Fi hálózathoz. Az információ megtekintéséhez egy böngésző segítségével látogasson el a következő címre: %s.</string>
+    <string name="unified_setup_activity_title">Csatlakozás a Google+-hoz</string>
+    <string name="unified_setup_activity_message">Profilja és +1-ei megjelennek.</string>
+    <string name="oob_tos">A <b>Csatlakozás</b> megérintésével létrehoz egy nyilvános profilt, és elfogadja, hogy a Google <annotation id="oob_location_sharing">felhasználhatja az Ön helyét</annotation>, valamint elfogadja a <annotation id="oob_mobile_tos">Mobil Általános Szerződési Feltételeket</annotation> és az <annotation id="oob_privacy_policy">Adatvédelmi Irányelveket</annotation>.</string>
+    <string name="oob_tos_korea">A <b>Csatlakozás</b> megérintésével létrehoz egy nyilvános profilt, és elfogadja a <annotation id="oob_location_tos_for_korea">Helyre vonatkozó Általános Szerződési Feltételeket</annotation>, a <annotation id="oob_mobile_tos">Mobil Általános Szerződési Feltételeket</annotation> és az <annotation id="oob_privacy_policy">Adatvédelmi Irányelveket</annotation>.</string>
+    <string name="oob_join">Csatlakozás</string>
+    <string name="oob_loading">Betöltés...</string>
+    <string name="oob_sending">Küldés...</string>
+</resources>

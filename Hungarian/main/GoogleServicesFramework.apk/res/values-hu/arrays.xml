@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="passwordStrength">
+        <item>gyenge</item>
+        <item>közepes</item>
+        <item>jó</item>
+        <item>erős</item>
+    </string-array>
+</resources>

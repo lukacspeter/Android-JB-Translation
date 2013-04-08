@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_label">DRM-védett tartalom tárolása</string>
+    <string name="permlab_accessDrm">Hozzáférés DRM-tartalmakhoz.</string>
+    <string name="permdesc_accessDrm">Lehetővé teszi az alkalmazások számára DRM-védett tartalmak elérését.</string>
+    <string name="permlab_installDrm">DRM-tartalom telepítése.</string>
+    <string name="permdesc_installDrm">Lehetővé teszi alkalmazások számára DRM-védett tartalmak telepítését.</string>
+</resources>

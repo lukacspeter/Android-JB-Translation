@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="voice_unlock_options">
+        <item>Lejátszási parancs</item>
+        <item>Visszaállítás</item>
+    </string-array>
+</resources>

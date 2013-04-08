@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="da_speech_days">
+        <item quantity="other">%s nap</item>
+        <item quantity="one">1 nap</item>
+        <item quantity="few">%s nap</item>
+    </plurals>
+    <plurals name="da_speech_hours">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">1 óra</item>
+        <item quantity="few">%s óra</item>
+    </plurals>
+    <plurals name="da_speech_minutes">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">1 perc</item>
+        <item quantity="few">%s perc</item>
+    </plurals>
+    <plurals name="da_speech_in_x_kilometers">
+        <item quantity="other">%1$s kilométer múlva</item>
+        <item quantity="one">Egy kilométer múlva</item>
+        <item quantity="few">%1$s kilométer múlva</item>
+    </plurals>
+    <plurals name="da_speech_continue_for_x_kilometers">
+        <item quantity="other">Haladjon tovább %1$s kilométert</item>
+        <item quantity="one">Haladjon tovább egy kilométert</item>
+        <item quantity="few">Haladjon tovább %1$s kilométert</item>
+    </plurals>
+    <plurals name="da_speech_continue_on_road_for_x_kilometers">
+        <item quantity="other">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább egy kilométert a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+    </plurals>
+    <plurals name="da_speech_in_x_miles">
+        <item quantity="other">%1$s mérföld múlva</item>
+        <item quantity="one">Egy mérföld múlva</item>
+        <item quantity="few">%1$s mérföld múlva</item>
+    </plurals>
+    <plurals name="da_speech_continue_for_x_miles">
+        <item quantity="other">Haladjon tovább %1$s mérföldet</item>
+        <item quantity="one">Haladjon tovább egy mérföldet</item>
+        <item quantity="few">Haladjon tovább %1$s mérföldet</item>
+    </plurals>
+    <plurals name="da_speech_continue_on_road_for_x_miles">
+        <item quantity="other">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább egy mérföldet a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+    </plurals>
+    <plurals name="da_review_count">
+        <item quantity="other">%1$s értékelés</item>
+        <item quantity="one">%1$s értékelés</item>
+        <item quantity="few">%1$s értékelés</item>
+    </plurals>
+</resources>

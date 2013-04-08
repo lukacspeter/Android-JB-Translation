@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="restore_complete">
+        <item quantity="other">%1$d alkalmazás és beállítások visszaállítva</item>
+        <item quantity="one">Egy alkalmazás és beállítások visszaállítva</item>
+    </plurals>
+    <plurals name="pref_logs_deleted">
+        <item quantity="other">%1$d log törölve</item>
+        <item quantity="one">Egy log törölve</item>
+    </plurals>
+    <plurals name="pin_incorrect_try">
+        <item quantity="one">Utolsó esély</item>
+    </plurals>
+    <plurals name="malicious_apps_message1">
+        <item quantity="other">A következő csomagok rosszindulatúak lehetnek:</item>
+        <item quantity="one">A következő csomag rosszindulatú lehet:</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="search_results_estimated_in_bucket">
+        <item quantity="other">%1$d találat</item>
+        <item quantity="one">%1$d találat</item>
+    </plurals>
+    <plurals name="notification_updates_available_message">
+        <item quantity="other">%1$d új frissítés</item>
+        <item quantity="one">%1$d új frissítés</item>
+    </plurals>
+    <plurals name="plus_one_multiple_global">
+        <item quantity="other">%1$s személy +1-ezte ezt.</item>
+        <item quantity="one">%1$s személy +1-ezte ezt.</item>
+    </plurals>
+    <plurals name="plus_one_multiple_friends">
+        <item quantity="other">%1$s és %2$s másik személy +1-ezte ezt</item>
+        <item quantity="one">%1$s és %2$s másik személy +1-ezte ezt</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Háttérkép választó</string>
+    <string name="choose_lockpaper_from">Válasszon innen:</string>
+    <string name="chooser_lockpaper">Képernyőzár kép innen:</string>
+    <string name="pick_wallpaper">Háttérkép galéria</string>
+    <string name="save_lockpaper">Képernyőzár kép beállítás, kérem várjon…</string>
+    <string name="save_wallpaper">Háttérkép beállítása, kérem várjon…</string>
+    <string name="wallpaper_instructions">Háttérképként beállít</string>
+    <string name="wallpaper_text">HTC Háttérkép</string>
+    <string name="save_picture_to_wallpaper">Háttérkép</string>
+    <string name="save_picture_to_lockpaper">Képernyőzár kép</string>
+    <string name="save">Beállít</string>
+    <string name="cancel">Mégse</string>
+    <string name="title">Háttérkép előnézet</string>
+    <string name="gallery_label">Galéria</string>
+    <string name="wallpaper_dynamic">Élő háttérképek</string>
+    <string name="wallpaper_settings">Háttérkép</string>
+    <string name="set_wallpaper">Főképernyőre beállít</string>
+    <string name="set_lockpaper">Képernyőzárra beállít</string>
+    <string name="set_all">Mindkettőre beállít</string>
+    <string name="save_photo">Fénykép mentése</string>
+    <string name="iphone_back">Vissza</string>
+</resources>

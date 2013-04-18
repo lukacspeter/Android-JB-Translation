@@ -210,6 +210,9 @@
     <string name="global_action_silent_mode_on_status">Hang kikapcsolva</string>
     <string name="global_action_silent_mode_off_status">Hang bekapcsolva</string>
     <string name="global_actions_toggle_airplane_mode">Repülőgép üzemmód</string>
+    <string name="global_action_reboot">Újraindítás</string>
+    <string name="reboot_confirm">A készülék újraindítását választotta.</string>
+    <string name="reboot_confirm_question">Folytatni akarja?</string>
     <string name="global_actions_airplane_mode_on_status">Repülőgép üzemmód bekapcsolva</string>
     <string name="global_actions_airplane_mode_off_status">Repülőgép üzemmód kikapcsolva</string>
     <string name="safeMode">Biztonsági üzemmód</string>

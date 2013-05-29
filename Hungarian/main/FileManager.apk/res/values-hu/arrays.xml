@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="sort_by">
+        <item>Típus</item>
+        <item>Név (A - Z)</item>
+        <item>Méret (nagy - kicsi)</item>
+        <item>Idő (új - régi)</item>
+    </string-array>
+</resources>

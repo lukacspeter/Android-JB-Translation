@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="proxy_error">
         <item>A gépmező nem lehet üres</item>
         <item>A portmező nem lehet üres</item>

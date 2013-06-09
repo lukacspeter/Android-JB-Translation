@@ -213,7 +213,7 @@
     <string name="global_action_reboot">Újraindítás</string>
     <string name="reboot_confirm">A készülék újraindítását választotta.</string>
     <string name="reboot_confirm_question">Folytatni akarja?</string>
-    <string name="reboot_recovery">Visszaállító menü</string>
+    <string name="reboot_recovery">Recovery menü</string>
     <string name="global_action_power_restart">Újraindítás</string>
     <string name="restart_phone">Készülék újraindítása</string>
     <string name="restart_confirm">Az újraindítás hatására az alkalmazásokban ideiglenesen létrehozott, még mentetlen fájlok elvesznek. Folytatni akarja?</string>	

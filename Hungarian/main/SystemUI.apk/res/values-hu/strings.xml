@@ -220,4 +220,7 @@ Használja a kapott töltőt."</string>
 Húzza le az ujját még egyszer a rendszerbeállítások eléréséhez."</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
+    <string name="agold_battery_finish">A töltés befejeződött.</string>
+    <string name="agold_battery_plugged">Töltő csatlakoztatva</string>
+    <string name="agold_battery_pull_out">Töltő leválasztva</string>
 </resources>

@@ -375,6 +375,7 @@ Biztosan engedélyezni akarja a GPS-t és várakozik a GPS által biztosított i
     <string name="display_personalize">Személyre szabás</string>
     <string name="display_default">Megjelenítés</string>
     <string name="sound_enhancement_title">Hangzásjavítás</string>
+    <string name="music_plus_title">Hangzásjavítás</string>
     <string name="music_plus_summary">Hangzásjavítás fülhallgatóhoz</string>
     <string name="auto_backlight_title">Gazdaságos háttérvilágítás</string>
     <string name="auto_backlight_summary">A háttérvilágítás automatikus állítása energia-megtakarításhoz</string>
@@ -2175,4 +2176,34 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="cell_broadcast_settings">Cellán belüli adások</string>
     <string name="cell_broadcast_settings_summary">Válassza ki a megjelenítendő vészriasztások típusait.</string>
     <string name="confirm_title">Megerősítés</string>
+	    <string name="calibrate_ok">Kalibrálás</string>
+    <string name="calibrate_enter_ok">OK</string>
+    <string name="calibrate_fail">Kalibrálási hiba</string>
+    <string name="agold_alsps_calibration">Közelségszenzor kalibrálása</string>
+    <string name="alspssensor_run_warning">"Kalibrálás...
+ne mozgassa készülékét és az eléhelyezett tárgyakat"</string>
+    <string name="alspssensor_calibrate_finish">A kalibrálás befejeződött</string>
+    <string name="calibrate_gsensor_title">G-szenzor beállításai</string>
+    <string name="gsensor_title">G-szenzor kalibrálása</string>
+    <string name="gsensor_content">Tegye készülékét egy vízszintes felületre</string>
+    <string name="gsensor_calibrate_finish">A kalibrálás befejeződött</string>
+    <string name="gsensor_calibrating">"Kalibrálás...
+ne mozgassa készülékét"</string>
+    <string name="calibrate_title">Szenzorok beállításai</string>
+    <string name="alsps_calibrate_warning_one">"A művelet három lépésben fog lezajlani. Először távolítson el minden tárgyat a szenzor útjából, és kattintson az Indítás gombra."</string>
+    <string name="alsps_calibrate_warning_two">Másodszor, tegyen a szenzor elé tárgyakat, és kattintson a Következő gombra.</string>
+    <string name="alsps_calibrate_run_one">Környezeti paraméterek fogadása...</string>
+    <string name="alsps_calibrate_start">Indítás</string>
+    <string name="alsps_calibrate_next">Következő</string>
+    <string name="calibrate_fail_too_far">Kalibrálási hiba (Az akadály túl messze van a távolságszenzortól, kérjük, rakja közelebb a tárgyat a szenzorhoz, és kezdje újra a kalibrálást）</string>
+    <string name="calibrate_fail_too_close">Kalibrálási hiba (Az akadály túl közel van a távolságszenzorhoz, kérjük, tegye távolabb a tárgyat a szenzortól, és kezdje újra a kalibrálást）</string>
+    <string name="calibrate_fail_poor_structural_assembly">Kalibrálási hiba (A távolságszenzor struktúra nem teljes, ellenőrizze a telepítését)</string>
+    <string name="calibrate_fail_not_getavalidvalue">Kalibrálási hiba (nincsenek érvényes adatok)</string>
+    <string name="calibrate_fail_not_getavalidvaluefail">Kalibrálási hiba (nem érkeztek érvényes adatok, kérdezze le újra)</string>
+    <string name="calibrate_fail_not_getavalidvalueerror">Kalibrálási hiba (nem érkeztek érvényes adatok, kérdezze le újra)</string>
+    <string name="alsps_calibrate_warning_three">"Harmadszor lassan közelítsen tárgyakat a szenzor felé vagy lassan távolítson tárgyakat a szenzortól, hogy meggyőződjön a sikeres kalibrációról."</string>
+    <string name="alsps_calibrate_retry_calibrate">Újrakalibrálás</string>
+    <string name="turnSilentSettingStr">Felfordításra némítás beállítása</string>
+    <string name="incomingcallTurnsilentStr">Felfordításra némítás megnyitása</string>
+    <string name="incomingcallTurnsilentSummary">Fordítsa fel telefonját</string>
 </resources>

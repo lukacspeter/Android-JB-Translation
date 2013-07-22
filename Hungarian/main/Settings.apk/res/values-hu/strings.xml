@@ -375,7 +375,6 @@ Biztosan engedélyezni akarja a GPS-t és várakozik a GPS által biztosított i
     <string name="display_personalize">Személyre szabás</string>
     <string name="display_default">Megjelenítés</string>
     <string name="sound_enhancement_title">Hangzásjavítás</string>
-    <string name="music_plus_title">Hangzásjavítás</string>
     <string name="music_plus_summary">Hangzásjavítás fülhallgatóhoz</string>
     <string name="auto_backlight_title">Gazdaságos háttérvilágítás</string>
     <string name="auto_backlight_summary">A háttérvilágítás automatikus állítása energia-megtakarításhoz</string>
@@ -2176,7 +2175,20 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="cell_broadcast_settings">Cellán belüli adások</string>
     <string name="cell_broadcast_settings_summary">Válassza ki a megjelenítendő vészriasztások típusait.</string>
     <string name="confirm_title">Megerősítés</string>
-	    <string name="calibrate_ok">Kalibrálás</string>
+    <string name="agold_communicatesettings">Kapcsolat</string>
+    <string name="agold_systemsettings">Eszköz</string>
+    <string name="agold_applicationsettings">Fiók</string>
+    <string name="agold_othersettings">Továbbiak</string>
+    <string name="float_window_title">Felfüggesztési ablak</string>
+    <string name="tp_timeout_summary">Az érintőgomb háttérvilágítás automatikus kikapcsolásának ideje</string>
+    <string name="tp_timeout">Érintőgomb világítás időtartam</string>
+    <string name="zzzzzz_close">Minden kikapcsolása</string>
+    <string name="zzzzzz_wlan">WLAN</string>
+    <string name="zzzzzz_bt">Bluetooth</string>
+    <string name="zzzzzz_brightness1">Világítás</string>
+    <string name="zzzzzz_gps">GPS</string>
+    <string name="zzzzzz_tb">Szinkron.</string>
+		    <string name="calibrate_ok">Kalibrálás</string>
     <string name="calibrate_enter_ok">OK</string>
     <string name="calibrate_fail">Kalibrálási hiba</string>
     <string name="agold_alsps_calibration">Közelségszenzor kalibrálása</string>
@@ -2206,4 +2218,17 @@ ne mozgassa készülékét"</string>
     <string name="turnSilentSettingStr">Felfordításra némítás beállítása</string>
     <string name="incomingcallTurnsilentStr">Felfordításra némítás megnyitása</string>
     <string name="incomingcallTurnsilentSummary">Fordítsa fel telefonját</string>
+	<string name="id_call_settings">Hívásbeállítások</string>
+    <string name="battry_style_title">Akkumulátorkijelző stílusa</string>
+
+	<string name="autostarts_title">Automatikus indítás</string>
+    <string name="autostarts_allowed">Engedélyezve</string>
+    <string name="autostarts_prohibited">Letiltva</string>
+    <string name="autostarts_allow_progress_msg">Indításkor engedélyezve, kérem várjon...</string>
+    <string name="autostarts_prohibit_progress_msg">Indításkor letiltva, kérem várjon...</string>
+    <string name="autostarts_empty_msg">Nincsenek induló alkalmazások telepítve</string>
+    <string name="autostarts_optimize_empty_msg">Az induló alkalmazások nincsenek optimalizálva</string>
+    <string name="autostarts_optimize_btn_title">Induló alkalmazások optimalizálása</string>
+    <string name="autostarts_all_btn_title">Minden autom. induló elem</string>
+    <string name="sync_settings">Fiókok és szinkronizálás</string>
 </resources>

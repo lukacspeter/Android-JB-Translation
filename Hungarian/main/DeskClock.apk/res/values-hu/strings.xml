@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="abbrev_wday_month_day_no_year">EEE MMMM d</string>
     <string name="full_wday_month_day_no_year">EEEE MMMM d</string>
+    <string name="agold_full_wday_month_day_no_year">EEEE, MMMM dd, yyyy</string>
+    <string name="default_clock_style">digital</string>
+    <string name="timer_keypad_num0">0</string>
+    <string name="timer_keypad_num1">1</string>
+    <string name="timer_keypad_num2">2</string>
+    <string name="timer_keypad_num3">3</string>
+    <string name="timer_keypad_num4">4</string>
+    <string name="timer_keypad_num5">5</string>
+    <string name="timer_keypad_num6">6</string>
+    <string name="timer_keypad_num7">7</string>
+    <string name="timer_keypad_num8">8</string>
+    <string name="timer_keypad_num9">9</string>
+    <string name="power_on">Elvet és bekapcsol</string>
+    <string name="power_off">Elvet és kikapcsol</string>
+    <string name="repeat_weekdays">Hétköznapok</string>
+    <string name="stop_watch">Stopper</string>
+    <string name="voice_ui_title">Hangvezérlés</string>
+    <string name="voice_ui_content_text">Hangvezérlés engedélyezett az ábresztőórához</string>
+    <string name="alarm_command_summary_format">"Használhatja a %1$s vagy %2$s  parancsszavakat a szundi vagy leállítás utasításokhoz."</string>
+    <string name="alarm_command_summary_format_land">Használhatja a %1$s vagy %2$s  parancsszavakat a szundi vagy leállítás utasításokhoz.</string>	
     <string name="app_label">Óra</string>
     <string name="alarm_list_title">Ébresztések</string>
     <string name="add_alarm">Ébresztés hozzáadása</string>
@@ -83,6 +103,8 @@
     <string name="sw_lap_button">Kör</string>
     <string name="sw_reset_button">Alaphelyzet</string>
     <string name="sw_share_button">Megosztás</string>
+	<string name="stopwatch_lap">Kör</string>
+    <string name="stopwatch_restart">Újrakezdés</string>
     <string name="hours_label">ó</string>
     <string name="minutes_label">p</string>
     <string name="seconds_label">mp</string>
@@ -101,6 +123,8 @@
     <string name="timer_reset">Visszaállítás</string>
     <string name="timer_cancel">Mégse</string>
     <string name="timer_times_up">Az idő lejárt!</string>
+    <string name="timer_press_and_hold">Nyomja meg</string>	
+	 <string name="timer_times_out">Letelt az idő</string>
     <string name="timer_notification_label">Időzítő</string>
     <string name="home_label">Otthon</string>
     <string name="cities_activity_title">Városok</string>
@@ -148,4 +172,20 @@
     <string name="city_delete_confirmation">Eltávolítja ezt a várost?</string>
     <string name="digital_gadget">Digitális óra</string>
     <string name="widget_loading_ms">Betöltés</string>
+    <string name="menu_worldclock">Világidő</string>
+    <string name="menu_deskclock">Óra</string>
+    <string name="tapcreat">Ébresztés hozzáadása</string>
+    <string name="noitem">Nincs ébresztés</string>	
+	 <string name="widget_12_hours_format_h">h</string>
+    <string name="widget_12_hours_format_no_ampm_m">:mm</string>
+    <string name="widget_12_hours_format_m">:mm<font size="15">aa</font></string>
+    <string name="widget_24_hours_format_h">kk</string>
+    <string name="widget_24_hours_format_m">:mm</string>
+    <string name="wc_xml_taptoadd">Nincs város</string>
+    <string name="wc_xml_taptocreate">Város hozzáadása</string>
+    <string name="wc_noitem_add_city">Adjon hozzá városokat a világóra használatához</string>	
+    <string name="timer_hour">Óra</string>
+    <string name="timer_minute">Perc</string>
+    <string name="timer_second">Másodperc</string>	
+    <string name="unsupport_input_timer">Nem megfelelő formátum, adja meg 0-99 óra alakban.</string>	
 </resources>

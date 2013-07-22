@@ -188,4 +188,17 @@ Próbálja meg újra %d másodpercen belül."</string>
     <string name="voice_unlock_weak">Nem hallható a hangja.</string>
     <string name="voice_unlock_media_playing">A hangkioldás médialejátszás közben le van tiltva.</string>
     <string name="voiceunlock_multiple_failures">A hangfeloldásra tett kísérletek maximális száma túl lett lépve</string>
+	<string name="zzzz_agold_global_action_restart">Újraindítás</string>
+    <string name="zzzz_agold_global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
+    <string name="zzzz_agold_global_title_restart">Készülék újraindítása？</string>
+    <string name="zzzz_agold_global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>
+	<string name="agold_global_action_restart">Újraindítás</string>
+    <string name="agold_global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
+    <string name="agold_global_title_restart">Készülék újraindítása？</string>
+    <string name="agold_global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>	
+	<string name="global_action_restart">Újraindítás</string>
+    <string name="global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
+    <string name="global_title_restart">Készülék újraindítása？</string>
+    <string name="global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>		
+
 </resources>

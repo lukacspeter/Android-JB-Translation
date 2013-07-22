@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Zseblámpa</string>
+    <string name="auto_flash">Autó zseblámpa</string>
+    <string name="auto_flash_off">Autó zseblámpa ki</string>
+    <string name="sos">SOS</string>
+    <string name="sos_off">SOS ki</string>
+    <string name="about_menu">Névjegy</string>
+    <string name="flashlight_tutorial_notice">Érintse meg a gomb ot a fényerő változtatásához</string>
+    <string name="htc_corp">HTC Corporation</string>
+    <string name="load_camera">Várjon amíg betöltődik...</string>
+</resources>

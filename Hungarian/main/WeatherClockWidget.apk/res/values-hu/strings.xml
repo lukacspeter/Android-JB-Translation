@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">IdőjárásÓra</string>
+    <string name="month" />
+    <string name="day">.</string>
+    <string name="wgt_weather_ic_blizzard">Hóvihar</string>
+    <string name="wgt_weather_ic_cloudy">Felhős</string>
+    <string name="wgt_weather_ic_downpour">Felhőszakadás</string>
+    <string name="wgt_weather_ic_drizzle">Szitálás</string>
+    <string name="wgt_weather_ic_dust">Por</string>
+    <string name="wgt_weather_ic_flurries">Hózápor</string>
+    <string name="wgt_weather_ic_fog">Köd</string>
+    <string name="wgt_weather_ic_freezing_rain">Ónoseső</string>
+    <string name="wgt_weather_ic_hail">Jég</string>
+    <string name="wgt_weather_ic_heavy_snow">Erős havazás</string>
+    <string name="wgt_weather_ic_hurricane">Hurrikán</string>
+    <string name="wgt_weather_ic_overcast">Borult</string>
+    <string name="wgt_weather_ic_rain">Eső</string>
+    <string name="wgt_weather_ic_sand">Homok</string>
+    <string name="wgt_weather_ic_sandstorm">Homokvihar</string>
+    <string name="wgt_weather_ic_shower">Zápor</string>
+    <string name="wgt_weather_ic_sleet">Havaseső</string>
+    <string name="wgt_weather_ic_snow">Hó</string>
+    <string name="wgt_weather_ic_snow_showers">Záporok</string>
+    <string name="wgt_weather_ic_storm">Vihar</string>
+    <string name="wgt_weather_ic_sunny">Napos</string>
+    <string name="wgt_weather_ic_thunderstorm_hail">Jégvihar</string>
+    <string name="wgt_weather_ic_tornado">Tornádó</string>
+    <string name="wgt_weather_ic_windy">Szeles</string>
+    <string name="add">Nincs város, kattintson ide a hozzáadáshoz</string>
+    <string name="freshtime">Frissítés</string>
+    <string name="refreshfail">Frissítési hiba!</string>
+</resources>

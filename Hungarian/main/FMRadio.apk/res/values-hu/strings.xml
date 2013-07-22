@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="app_name">FM-rádió</string>
     <string name="favorite_manager">Csatornalista</string>
     <string name="add_to_favorite">Hozzáadás a kedvencekhez</string>
@@ -63,4 +63,50 @@
     <string name="already_exists">már létezik</string>
     <string name="optmenu_speaker">Hangszóró</string>
     <string name="optmenu_earphone">Fejhallgató</string>
+    <string name="FMR_Freq_text">Frekv(MHz)</string>
+    <string name="FMR_Freq_tune">Hangolás</string>
+    <string name="FMR_Antenna_text">Antenna típus</string>
+    <string name="FMR_Antenna_short">Rövid</string>
+    <string name="FMR_Antenna_long">Fejhallgató</string>
+    <string name="FMR_Status_text">Állapot</string>
+    <string name="FMR_Force_Stereomono_text">Erőltetés:</string>
+    <string name="FMR_Status_Stereomono_text">Sztereó/Monó:</string>
+    <string name="FMR_Stereomono_stereo">Sztereó</string>
+    <string name="FMR_Stereomono_mono">Monó</string>
+    <string name="FMR_Status_Stereomono">érzékelés...</string>
+    <string name="FMR_Status_RSSI_text">RSSI(dBm):</string>
+    <string name="FMR_Status_RSSI">érzékelés...</string>
+    <string name="FMR_Status_Caparray_text">CapArray(pF):</string>
+    <string name="FMR_Status_Caparray">érzékelés...</string>
+    <string name="FMR_RDS_text">RDS</string>
+    <string name="FMR_RDS_Ratio_text">Arány:</string>
+    <string name="FMR_RDS_Ratio">érzékelés...</string>
+    <string name="FMR_RDS_PS_text">PS:</string>
+    <string name="FMR_RDS_PS">Nincs.</string>
+    <string name="FMR_RDS_RT_text">RT:</string>
+    <string name="FMR_RDS_RT">Nincs.</string>
+    <string name="FMR_Hardware_version">Hardver verzió</string>
+    <string name="FMR_Chip_ID_text">Chip ID</string>
+    <string name="FMR_Chip_ID">Nincs.</string>
+    <string name="FMR_ECO_Version_text">ECO verzió</string>
+    <string name="FMR_ECO_Version">Nincs.</string>
+    <string name="FMR_Patch_Version_text">Patch verzió</string>
+    <string name="FMR_Patch_Version">Nincs.</string>
+    <string name="FMR_DSP_Version_text">DSP verzió</string>
+    <string name="FMR_DSP_Version">Nincs.</string>
+    <string name="success">Sikeres</string>
+    <string name="fail">Sikertelen</string>
+    <string name="no_earphone">A fejhallgató antennaként funkcionál. Csatlakoztassa a készülékhez</string>
+    <string name="haveAdded">Az állomás már szerepel a listában. Adjon hozzá másikat</string>
+    <string name="plzOpenFm">FM Rádió bekapcsolása</string>
+    <string name="agold_fm_input_cancel">Mégsem</string>
+    <string name="agold_fm_input_ok">Ok</string>
+    <string name="agold_fm_input">Frekvencia módosítása</string>
+    <string name="agold_fm_input_frequency">Frekvencia megadása</string>
+    <string name="agold_fm_recording">Hangfelvétel...</string>
+    <string name="agold_fm_recording_warn">A hangfelvétel leáll és a hangfelvétel törlődni fog</string>
+    <string name="agold_fm_favorite">Kedvencek:</string>
+    <string name="agold_fm_delete">Törlés</string>
+    <string name="agold_fm_issearching">Keresés</string>
+    <string name="agold_fm_tag_information">A címke gomb csak akkor aktív, ha a rádióállomás sugároz adatokat</string>	
 </resources>

@@ -1325,4 +1325,10 @@ Ha hosszú ideig hangosan hallgatja a zenét, az károsíthatja a hallását."</
     <string name="storage_phone">Telefon-memória</string>
     <string name="storage_external_usb">Külső USB-tároló</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Hangkioldás.</string>
+	<string name="usb_ums_notification_title">Csatlakoztatva USB tárolóként</string> 
+    <string name="usb_charging_notification_title">Csak töltés USB-ről</string>
+	<string name="zzzz_agold_global_action_restart">Újraindítás</string>
+    <string name="zzzz_agold_global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
+    <string name="zzzz_agold_global_title_restart">Készülék újraindítása？</string>
+    <string name="zzzz_agold_global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>	
 </resources>
